@@ -3,7 +3,7 @@ Background Oriented Schlieren technique optimization by means of optic flow algo
 
 The code can be executed by downloading the repository files as they appear here. If one wishes to place the several implementaton images in separate folders, the new path for this images has to be specified in the "OpticFlow_BOS.m" file. 
 
-## Validation Images: 
+## Validation Images (Density Magnitude vs. Distance): 
 ## Optic Flow-BOS Result For A Supersonic Flow
 <img src ="https://user-images.githubusercontent.com/57925449/211733290-7708d3c7-4d47-46bc-bb81-b2d2021df3fa.png" width="300" height="250">
 ## Previous Cross-Correlation Result for Supersonic Flow
