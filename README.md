@@ -12,3 +12,4 @@ The code can be executed by downloading the repository files as they appear here
 ![Densidad_sop_enc_test_3](https://user-images.githubusercontent.com/57925449/211733337-0e4e2197-f881-4f7e-a587-af395ac3790b.png | width=100))
 ### Candle Flame 
 ![Densidad_square_rand_ccc_15](https://user-images.githubusercontent.com/57925449/211733347-c5a46769-ce3b-484f-b2dd-b75369b8bb5b.png | width=100))
+<img src ="https://user-images.githubusercontent.com/57925449/211733347-c5a46769-ce3b-484f-b2dd-b75369b8bb5b.png" width="100" height="100">
