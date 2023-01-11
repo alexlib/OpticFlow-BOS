@@ -5,11 +5,11 @@ The code can be executed by downloading the repository files as they appear here
 
 ## Validation Images (Density Magnitude vs. Distance): 
 
-## Optic Flow-BOS Result For A Supersonic Flow
+Optic Flow-BOS Result For A Supersonic Flow
 <img src ="https://user-images.githubusercontent.com/57925449/211733290-7708d3c7-4d47-46bc-bb81-b2d2021df3fa.png" width="300" height="250">
-## Previous Cross-Correlation Result for Supersonic Flow
+Previous Cross-Correlation Result for Supersonic Flow
 <img src ="https://user-images.githubusercontent.com/57925449/211733305-6347b46f-48bd-48ec-9310-a907e218104c.png" width="300" height="250">
-## Blowtorch gas
+Blowtorch gas
 <img src ="https://user-images.githubusercontent.com/57925449/211733337-0e4e2197-f881-4f7e-a587-af395ac3790b.png" width="300" height="250">
-## Candle Flame 
+Candle Flame 
 <img src ="https://user-images.githubusercontent.com/57925449/211733347-c5a46769-ce3b-484f-b2dd-b75369b8bb5b.png" width="300" height="250">
