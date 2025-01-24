@@ -6,36 +6,42 @@ tic
 %% Set files location
 
 %%Validation images Supersonic Flow
-filePattern = 'ValidationImagesSF/SF_%03d.jpg';
+% filePattern = 'ValidationImagesSF/SF_%03d.jpg';
 
+% filePattern = 'ValidationImagesSF/S%04d.tif';
+filePattern = 'ValidationImagesSF/C%03d.tif';
+
+
+% filePattern = 'ValidationImagesSF/A%03d.tif';
 
 %%Images for optic flow vs cross-correlation tests
 
 %Linear displacement
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/L_3p_2d_%03d.tif';
+filePattern = 'L_3p_2d_%03d.tif';
 
 %Vortex displacements
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/V_3p_2d_%03d.tif';
+filePattern = 'V_3p_2d_%03d.tif';
 
 
 %%Pattern Tests
 
 %Density of dots
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_600000_%03d.tif';
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_60000_%03d.tif';
+%filePattern = 'Rand_pattern_black_crop_600000_%03d.tif';
+%filePattern = 'Rand_pattern_black_crop_60000_%03d.tif';
 
 %Structure of dots
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/square_rand_15_%03d.tif';
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/square_15_%03d.tif';
+%filePattern = 'square_rand_15_%03d.tif';
+%filePattern = 'square_15_%03d.tif';
+
 
 
 %%Object of study
 
 %Gas of lighter 15cm
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/square_rand_ccc_15_%03d.tif';
+%filePattern = 'square_rand_ccc_15_%03d.tif';
 
 %Blowtorch
-%filePattern = 'C:/Users/Jesica Gonz�lez/Documents/School/UNAM/Titulaci�n/Thesis/C�digoFlujoOptico-BOS/OpticFlow-BOS/sop_enc_test_%03d.tif';
+filePattern = 'sop_enc_test_%03d.tif';
 
 
 %% Read Image Sequence
