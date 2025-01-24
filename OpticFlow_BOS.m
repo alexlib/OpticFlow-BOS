@@ -6,36 +6,36 @@ tic
 %% Set files location
 
 %%Validation images Supersonic Flow
-filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/ValidationImagesSF/SF_%03d.jpg';
+filePattern = 'ValidationImagesSF/SF_%03d.jpg';
 
 
 %%Images for optic flow vs cross-correlation tests
 
 %Linear displacement
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/L_3p_2d_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/L_3p_2d_%03d.tif';
 
 %Vortex displacements
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/V_3p_2d_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/V_3p_2d_%03d.tif';
 
 
 %%Pattern Tests
 
 %Density of dots
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_600000_%03d.tif';
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_60000_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_600000_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/Rand_pattern_black_crop_60000_%03d.tif';
 
 %Structure of dots
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/square_rand_15_%03d.tif';
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/square_15_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/square_rand_15_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/square_15_%03d.tif';
 
 
 %%Object of study
 
 %Gas of lighter 15cm
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/square_rand_ccc_15_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/square_rand_ccc_15_%03d.tif';
 
 %Blowtorch
-%filePattern = 'C:/Users/Jesica González/Documents/School/UNAM/Titulación/Thesis/CódigoFlujoOptico-BOS/OpticFlow-BOS/sop_enc_test_%03d.tif';
+%filePattern = 'C:/Users/Jesica Gonzï¿½lez/Documents/School/UNAM/Titulaciï¿½n/Thesis/Cï¿½digoFlujoOptico-BOS/OpticFlow-BOS/sop_enc_test_%03d.tif';
 
 
 %% Read Image Sequence
